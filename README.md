@@ -1,4 +1,4 @@
-# bmi_calculator
+# BMI Calculator App
 
 An App for calculating the BMI of a patient
 
