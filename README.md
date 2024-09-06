@@ -12,18 +12,31 @@ This app empowers users to take a proactive approach towards their health by pro
    
 **App Functionality:**
 
+
 ⚫Main Screen: Presents a clean and intuitive interface with clear input fields for weight and height. 
+
+
 ⚫Unit Selection: Users can choose between Imperial (pounds and feet/inches) or Metric (kilograms and centimeters) units. 
+
+
 ⚫Calculation: Upon entering weight and height, the app calculates the BMI using the standard formula. 
+
+
 ⚫BMI Display: The app displays the calculated BMI value along with a clear and concise interpretation of the result. The interpretation will categorize the BMI into underweight, normal weight, overweight, or obese according to World Health Organization (WHO) classifications.
 
 **Optional Features**
+
+
 ⚫BMI Chart: Integrate a visual BMI chart for users to understand their BMI in context.
+
+
 ⚫Health Information: Provide a brief overview of health risks associated with different BMI ranges, with a disclaimer to consult a healthcare professional for personalized guidance.
 
 **Technical Specifications**
 
 ⚫The BMI Calculator App will be developed as a mobile application compatible with iOS and Android devices.
+
+
 ⚫Programming languages like Swift (iOS) or Kotlin (Android) can be used for development.
 
 # **Documentation**
