@@ -12,9 +12,9 @@ This app empowers users to take a proactive approach towards their health by pro
    
 **App Functionality:**
 
-⚫Main Screen: Presents a clean and intuitive interface with clear input fields for weight and height.
-⚫Unit Selection: Users can choose between Imperial (pounds and feet/inches) or Metric (kilograms and centimeters) units.
-⚫Calculation: Upon entering weight and height, the app calculates the BMI using the standard formula.
+⚫Main Screen: Presents a clean and intuitive interface with clear input fields for weight and height. 
+⚫Unit Selection: Users can choose between Imperial (pounds and feet/inches) or Metric (kilograms and centimeters) units. 
+⚫Calculation: Upon entering weight and height, the app calculates the BMI using the standard formula. 
 ⚫BMI Display: The app displays the calculated BMI value along with a clear and concise interpretation of the result. The interpretation will categorize the BMI into underweight, normal weight, overweight, or obese according to World Health Organization (WHO) classifications.
 
 **Optional Features**
